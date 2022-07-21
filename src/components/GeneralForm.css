@@ -1,0 +1,24 @@
+.general-form{
+    width: 500px;
+    height: 700px;
+    border: 1px solid gray;
+}
+.addData{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+.addData input{
+    width: 350px;
+    height: 50px;
+    font-size: 36px;
+}
+.addData button{
+    width: 100px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid grey;
+}

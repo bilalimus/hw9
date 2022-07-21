@@ -1,0 +1,27 @@
+.data-list{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+}
+.nw-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    border: 1px solid grey;
+    width: 85%;
+    height: 50px;
+    padding: 0 20px;
+    font-weight: 600;
+    font-size: 20px;
+    
+}
+.nw-date{
+    display: flex;
+    align-items: center;
+}
+.nw-title{
+    display: flex;
+    align-items: center;
+}
